@@ -2,6 +2,19 @@
 @tailwind components;
 @tailwind utilities;
 
+/* globals.css */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #1A2238;
+  color: white;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 :root {
   --background: #ffffff;
   --foreground: #171717;

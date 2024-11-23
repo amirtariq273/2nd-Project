@@ -1,5 +1,5 @@
 const CardsSection = () => (
-  <div className="flex justify-center gap-[150] font-bold h-[130px]">
+  <div className="flex justify-center gap-11 font-bold h-[130px]">
     {/* Card 1 */}
     <div className="bg-white text-black rounded px-8 py-5">
       <h1 className="font-extrabold">Training Courses</h1>
